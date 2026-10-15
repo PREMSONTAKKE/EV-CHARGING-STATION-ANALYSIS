@@ -1,0 +1,20 @@
+[
+  {
+    "hub_id": 1,
+    "latitude": 37.42922,
+    "longitude": -122.14344,
+    "label": "Palo Alto Hub 1"
+  },
+  {
+    "hub_id": 2,
+    "latitude": 37.44605,
+    "longitude": -122.16132,
+    "label": "Palo Alto Hub 2"
+  },
+  {
+    "hub_id": 3,
+    "latitude": 37.42213,
+    "longitude": -122.113,
+    "label": "Palo Alto Hub 3"
+  }
+]

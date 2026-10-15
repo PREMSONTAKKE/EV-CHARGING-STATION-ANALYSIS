@@ -1,0 +1,33 @@
+# Python & Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.egg-info/
+.coverage
+
+# Frontend & Dependencies
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+*.local
+
+# Big Data Runtime Checkpoints & Local Databases
+data/processed/checkpoints/
+data/processed/grid_metrics.db
+data/processed/*.db-journal
+
+# Large Raw Datasets (85MB+ Palo Alto / Boulder CSVs)
+data/raw/*.csv*
+!data/raw/.gitkeep
+
+# IDE, OS, & Logs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

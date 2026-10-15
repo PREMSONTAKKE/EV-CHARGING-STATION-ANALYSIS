@@ -1,0 +1,472 @@
+[
+  {
+    "station_id": "PALO ALTO CA / BRYANT #2",
+    "name": "PALO ALTO CA / BRYANT #2",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.446373,
+    "longitude": -122.162331,
+    "cluster_id": 2,
+    "historical_sessions": 14389,
+    "total_kwh_delivered": 107260.57
+  },
+  {
+    "station_id": "PALO ALTO CA / HAMILTON #1",
+    "name": "PALO ALTO CA / HAMILTON #1",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.444572,
+    "longitude": -122.160309,
+    "cluster_id": 2,
+    "historical_sessions": 14888,
+    "total_kwh_delivered": 113730.92
+  },
+  {
+    "station_id": "PALO ALTO CA / BRYANT #1",
+    "name": "PALO ALTO CA / BRYANT #1",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.446373,
+    "longitude": -122.162331,
+    "cluster_id": 2,
+    "historical_sessions": 13436,
+    "total_kwh_delivered": 102254.89
+  },
+  {
+    "station_id": "PALO ALTO CA / HIGH #4",
+    "name": "PALO ALTO CA / HIGH #4",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.443676,
+    "longitude": -122.16288,
+    "cluster_id": 2,
+    "historical_sessions": 13898,
+    "total_kwh_delivered": 111875.65
+  },
+  {
+    "station_id": "PALO ALTO CA / HAMILTON #2",
+    "name": "PALO ALTO CA / HAMILTON #2",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.444607,
+    "longitude": -122.160263,
+    "cluster_id": 2,
+    "historical_sessions": 23721,
+    "total_kwh_delivered": 191721.78
+  },
+  {
+    "station_id": "PALO ALTO CA / MPL #1",
+    "name": "PALO ALTO CA / MPL #1",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.422146,
+    "longitude": -122.112511,
+    "cluster_id": 3,
+    "historical_sessions": 1044,
+    "total_kwh_delivered": 9002.49
+  },
+  {
+    "station_id": "PALO ALTO CA / WEBSTER #1",
+    "name": "PALO ALTO CA / WEBSTER #1",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.449348,
+    "longitude": -122.157768,
+    "cluster_id": 2,
+    "historical_sessions": 14432,
+    "total_kwh_delivered": 139068.86
+  },
+  {
+    "station_id": "PALO ALTO CA / RINCONADA LIB 2",
+    "name": "PALO ALTO CA / RINCONADA LIB 2",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.445492,
+    "longitude": -122.138931,
+    "cluster_id": 1,
+    "historical_sessions": 5553,
+    "total_kwh_delivered": 52760.95
+  },
+  {
+    "station_id": "PALO ALTO CA / RINCONADA LIB 1",
+    "name": "PALO ALTO CA / RINCONADA LIB 1",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.445499,
+    "longitude": -122.138847,
+    "cluster_id": 1,
+    "historical_sessions": 6212,
+    "total_kwh_delivered": 58982.02
+  },
+  {
+    "station_id": "PALO ALTO CA / MPL #4",
+    "name": "PALO ALTO CA / MPL #4",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.422104,
+    "longitude": -122.11351,
+    "cluster_id": 3,
+    "historical_sessions": 7787,
+    "total_kwh_delivered": 66722.16
+  },
+  {
+    "station_id": "PALO ALTO CA / MPL #6",
+    "name": "PALO ALTO CA / MPL #6",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.422138,
+    "longitude": -122.113457,
+    "cluster_id": 3,
+    "historical_sessions": 8996,
+    "total_kwh_delivered": 78079.01
+  },
+  {
+    "station_id": "PALO ALTO CA / MPL #3",
+    "name": "PALO ALTO CA / MPL #3",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.422119,
+    "longitude": -122.112556,
+    "cluster_id": 3,
+    "historical_sessions": 1420,
+    "total_kwh_delivered": 11964.27
+  },
+  {
+    "station_id": "PALO ALTO CA / RINCONADA LIB 3",
+    "name": "PALO ALTO CA / RINCONADA LIB 3",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.445492,
+    "longitude": -122.139,
+    "cluster_id": 1,
+    "historical_sessions": 6499,
+    "total_kwh_delivered": 59980.66
+  },
+  {
+    "station_id": "PALO ALTO CA / HIGH #1",
+    "name": "PALO ALTO CA / HIGH #1",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.443558,
+    "longitude": -122.162849,
+    "cluster_id": 2,
+    "historical_sessions": 10756,
+    "total_kwh_delivered": 98433.05
+  },
+  {
+    "station_id": "PALO ALTO CA / WEBSTER #2",
+    "name": "PALO ALTO CA / WEBSTER #2",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.449375,
+    "longitude": -122.157799,
+    "cluster_id": 2,
+    "historical_sessions": 12669,
+    "total_kwh_delivered": 125795.49
+  },
+  {
+    "station_id": "PALO ALTO CA / MPL #5",
+    "name": "PALO ALTO CA / MPL #5",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.422123,
+    "longitude": -122.113487,
+    "cluster_id": 3,
+    "historical_sessions": 7544,
+    "total_kwh_delivered": 65536.66
+  },
+  {
+    "station_id": "PALO ALTO CA / MPL #2",
+    "name": "PALO ALTO CA / MPL #2",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.422169,
+    "longitude": -122.11248,
+    "cluster_id": 3,
+    "historical_sessions": 1535,
+    "total_kwh_delivered": 13704.81
+  },
+  {
+    "station_id": "PALO ALTO CA / CAMBRIDGE #1",
+    "name": "PALO ALTO CA / CAMBRIDGE #1",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.427349,
+    "longitude": -122.145676,
+    "cluster_id": 1,
+    "historical_sessions": 11163,
+    "total_kwh_delivered": 80517.26
+  },
+  {
+    "station_id": "PALO ALTO CA / BRYANT #3",
+    "name": "PALO ALTO CA / BRYANT #3",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.446583,
+    "longitude": -122.162109,
+    "cluster_id": 2,
+    "historical_sessions": 4475,
+    "total_kwh_delivered": 38732.8
+  },
+  {
+    "station_id": "PALO ALTO CA / CAMBRIDGE #2",
+    "name": "PALO ALTO CA / CAMBRIDGE #2",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.42733,
+    "longitude": -122.145699,
+    "cluster_id": 1,
+    "historical_sessions": 9256,
+    "total_kwh_delivered": 64605.6
+  },
+  {
+    "station_id": "PALO ALTO CA / WEBSTER #3",
+    "name": "PALO ALTO CA / WEBSTER #3",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.449348,
+    "longitude": -122.157768,
+    "cluster_id": 2,
+    "historical_sessions": 10484,
+    "total_kwh_delivered": 98629.66
+  },
+  {
+    "station_id": "PALO ALTO CA / TED THOMPSON #1",
+    "name": "PALO ALTO CA / TED THOMPSON #1",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.428318,
+    "longitude": -122.144188,
+    "cluster_id": 1,
+    "historical_sessions": 9814,
+    "total_kwh_delivered": 91167.89
+  },
+  {
+    "station_id": "PALO ALTO CA / HIGH #2",
+    "name": "PALO ALTO CA / HIGH #2",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.443146,
+    "longitude": -122.163017,
+    "cluster_id": 2,
+    "historical_sessions": 6930,
+    "total_kwh_delivered": 62324.93
+  },
+  {
+    "station_id": "PALO ALTO CA / HIGH #3",
+    "name": "PALO ALTO CA / HIGH #3",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.443127,
+    "longitude": -122.163033,
+    "cluster_id": 2,
+    "historical_sessions": 8317,
+    "total_kwh_delivered": 73875.22
+  },
+  {
+    "station_id": "PALO ALTO CA / BRYANT #6",
+    "name": "PALO ALTO CA / BRYANT #6",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.446667,
+    "longitude": -122.16217,
+    "cluster_id": 2,
+    "historical_sessions": 5857,
+    "total_kwh_delivered": 52959.51
+  },
+  {
+    "station_id": "PALO ALTO CA / BRYANT #5",
+    "name": "PALO ALTO CA / BRYANT #5",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.44669,
+    "longitude": -122.162231,
+    "cluster_id": 2,
+    "historical_sessions": 5332,
+    "total_kwh_delivered": 48754.46
+  },
+  {
+    "station_id": "PALO ALTO CA / BRYANT #4",
+    "name": "PALO ALTO CA / BRYANT #4",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.446785,
+    "longitude": -122.162369,
+    "cluster_id": 2,
+    "historical_sessions": 3598,
+    "total_kwh_delivered": 37231.23
+  },
+  {
+    "station_id": "PALO ALTO CA / TED THOMPSON #3",
+    "name": "PALO ALTO CA / TED THOMPSON #3",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.428623,
+    "longitude": -122.144043,
+    "cluster_id": 1,
+    "historical_sessions": 2455,
+    "total_kwh_delivered": 24119.51
+  },
+  {
+    "station_id": "PALO ALTO CA / CAMBRIDGE #5",
+    "name": "PALO ALTO CA / CAMBRIDGE #5",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.426228,
+    "longitude": -122.145981,
+    "cluster_id": 1,
+    "historical_sessions": 4556,
+    "total_kwh_delivered": 33675.72
+  },
+  {
+    "station_id": "PALO ALTO CA / TED THOMPSON #2",
+    "name": "PALO ALTO CA / TED THOMPSON #2",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.42857,
+    "longitude": -122.143929,
+    "cluster_id": 1,
+    "historical_sessions": 2217,
+    "total_kwh_delivered": 24817.56
+  },
+  {
+    "station_id": "PALO ALTO CA / CAMBRIDGE #4",
+    "name": "PALO ALTO CA / CAMBRIDGE #4",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.426178,
+    "longitude": -122.146034,
+    "cluster_id": 1,
+    "historical_sessions": 3428,
+    "total_kwh_delivered": 24892.35
+  },
+  {
+    "station_id": "PALO ALTO CA / TED THOMPSON #4",
+    "name": "PALO ALTO CA / TED THOMPSON #4",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.4286,
+    "longitude": -122.14399,
+    "cluster_id": 1,
+    "historical_sessions": 2226,
+    "total_kwh_delivered": 21579.63
+  },
+  {
+    "station_id": "PALO ALTO CA / CAMBRIDGE #3",
+    "name": "PALO ALTO CA / CAMBRIDGE #3",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.426208,
+    "longitude": -122.146011,
+    "cluster_id": 1,
+    "historical_sessions": 4476,
+    "total_kwh_delivered": 31125.93
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 1",
+    "name": "PALO ALTO CA / SHERMAN 1",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.426598,
+    "longitude": -122.143288,
+    "cluster_id": 1,
+    "historical_sessions": 7,
+    "total_kwh_delivered": 112.29
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 6",
+    "name": "PALO ALTO CA / SHERMAN 6",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.426582,
+    "longitude": -122.143425,
+    "cluster_id": 1,
+    "historical_sessions": 3,
+    "total_kwh_delivered": 33.64
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 3",
+    "name": "PALO ALTO CA / SHERMAN 3",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.42662,
+    "longitude": -122.143326,
+    "cluster_id": 1,
+    "historical_sessions": 8,
+    "total_kwh_delivered": 102.6
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 8",
+    "name": "PALO ALTO CA / SHERMAN 8",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.426617,
+    "longitude": -122.143456,
+    "cluster_id": 1,
+    "historical_sessions": 2,
+    "total_kwh_delivered": 67.22
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 15",
+    "name": "PALO ALTO CA / SHERMAN 15",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.426773,
+    "longitude": -122.143402,
+    "cluster_id": 1,
+    "historical_sessions": 1,
+    "total_kwh_delivered": 10.95
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 14",
+    "name": "PALO ALTO CA / SHERMAN 14",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.426777,
+    "longitude": -122.143311,
+    "cluster_id": 1,
+    "historical_sessions": 2,
+    "total_kwh_delivered": 18.32
+  },
+  {
+    "station_id": "PALO ALTO CA / BRYANT # 1",
+    "name": "PALO ALTO CA / BRYANT # 1",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.446651,
+    "longitude": -122.161919,
+    "cluster_id": 2,
+    "historical_sessions": 13,
+    "total_kwh_delivered": 110.28
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 9",
+    "name": "PALO ALTO CA / SHERMAN 9",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.42667,
+    "longitude": -122.143257,
+    "cluster_id": 1,
+    "historical_sessions": 1,
+    "total_kwh_delivered": 4.91
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 4",
+    "name": "PALO ALTO CA / SHERMAN 4",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.426563,
+    "longitude": -122.143379,
+    "cluster_id": 1,
+    "historical_sessions": 4,
+    "total_kwh_delivered": 22.98
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 5",
+    "name": "PALO ALTO CA / SHERMAN 5",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.426643,
+    "longitude": -122.143372,
+    "cluster_id": 1,
+    "historical_sessions": 1,
+    "total_kwh_delivered": 2.92
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 7",
+    "name": "PALO ALTO CA / SHERMAN 7",
+    "substation_id": "SUB-PA-04",
+    "latitude": 37.426655,
+    "longitude": -122.143417,
+    "cluster_id": 1,
+    "historical_sessions": 4,
+    "total_kwh_delivered": 78.47
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 17",
+    "name": "PALO ALTO CA / SHERMAN 17",
+    "substation_id": "SUB-PA-01",
+    "latitude": 37.426823,
+    "longitude": -122.143394,
+    "cluster_id": 1,
+    "historical_sessions": 1,
+    "total_kwh_delivered": 6.78
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 2",
+    "name": "PALO ALTO CA / SHERMAN 2",
+    "substation_id": "SUB-PA-02",
+    "latitude": 37.426537,
+    "longitude": -122.143341,
+    "cluster_id": 1,
+    "historical_sessions": 4,
+    "total_kwh_delivered": 41.6
+  },
+  {
+    "station_id": "PALO ALTO CA / SHERMAN 11",
+    "name": "PALO ALTO CA / SHERMAN 11",
+    "substation_id": "SUB-PA-03",
+    "latitude": 37.42672,
+    "longitude": -122.143326,
+    "cluster_id": 1,
+    "historical_sessions": 1,
+    "total_kwh_delivered": 17.15
+  }
+]
